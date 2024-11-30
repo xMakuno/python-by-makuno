@@ -1,0 +1,20 @@
+Introducción a Python
+    Declaración de variables
+    Solicitud de variables
+    Impresión
+    Tipos de datos
+        Tipos primitivos
+        Objetos y arreglos (mencionar)
+Operaciones aritméticas
+    Operaciones aritméticas
+    Operaciones de string
+    Operadores lógicos
+    Sentencias lógicas (bool)
+Funciones
+    Declaración de funciones
+    Parámetros de funciones
+    Retorno de funciones
+    Scope de variables II
+Ordenamiento y busqueda
+    Formas de busqueda y ordenamiento con arreglos 
+
